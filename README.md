@@ -21,9 +21,11 @@ Este projeto tem como objetivo **coletar vagas reais da internet** relacionadas 
 ## 📊 Visualizações
 
 ### Modo escuro
+#### *Top 15 Tecnologias*
 ![Dark Mode](output/grafico_dark_custom.png)
 
 ### Modo claro
+#### *Top 15 Tecnologias*
 ![Light Mode](output/grafico_light_custom.png)
 
 ---
