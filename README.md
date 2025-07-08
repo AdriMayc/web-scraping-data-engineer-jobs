@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
 ![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
 
-Este projeto tem como objetivo **coletar vagas reais da internet** relacionadas à Engenharia de Dados, extrair as **skills mais requisitadas** e gerar **gráficos visuais** claros e profissionais — prontos para integrar ao portfólio ou apoiar decisões de carreira.
+Este projeto tem como objetivo **coletar vagas reais da internet** relacionadas à Engenharia de Dados, extrair as **skills mais requisitadas** e gerar **gráficos visuais** claros e  prontos para apoiar decisões de carreira.
 
 ---
 
