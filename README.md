@@ -7,26 +7,18 @@ Este projeto tem como objetivo **coletar vagas reais da internet** relacionadas 
 
 ---
 
-## 🌍 Sobre o projeto
+## 🔶 Sobre o projeto
 
 - Coleta vagas via **API pública da Remotive**  
 - Processa e limpa os dados com **Pandas & Regex**  
-- Conta a frequência de cada tecnologia citada  
-- Gera dois gráficos prontos para tema claro/escuro:  
-  - `grafico_light_custom.png` (white + blue)  
-  - `grafico_dark_custom.png`  (black + blue)  
+- Conta a frequência de cada tecnologia citada   
 
 ---
 
 ## 📊 Visualizações
 
-### Modo escuro
 #### *Top 15 Tecnologias*
 ![Dark Mode](output/grafico_dark_custom.png)
-
-### Modo claro
-#### *Top 15 Tecnologias*
-![Light Mode](output/grafico_light_custom.png)
 
 ---
 
