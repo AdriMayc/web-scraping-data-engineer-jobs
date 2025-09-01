@@ -27,7 +27,6 @@ Este projeto tem como objetivo **coletar vagas reais da internet** relacionadas 
 | Categoria | Ferramentas |
 |-----------|-------------|
 | Coleta    | `requests` |
-| Parsing   | `beautifulsoup4` |
 | Processamento | `pandas`, `re` |
 | Visual    | `matplotlib` |
 
